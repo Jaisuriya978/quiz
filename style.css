@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(130deg, #667eea, #764ba2);
+  font-family: Arial, sans-serif;
+}
+
+.quiz-card {
+  width: 100%;
+  max-width: 420px;
+  border-radius: 15px;
+}
+
+.option-btn {
+  margin-bottom: 10px;
+}
+
+.option-btn:hover {
+  background-color: #0d6efd;
+  color: #fff;
+}
+
+.progress {
+  height: 8px;
+}
